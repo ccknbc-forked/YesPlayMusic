@@ -7,7 +7,7 @@ RUN yarn install
 COPY . .
 RUN yarn build
 
-FROM nginx:1.20.2-alpine as app
+FROM nginx:1.22.0-alpine as app
 RUN echo $'server { \n\
   gzip on;\n\
   listen       80; \n\
