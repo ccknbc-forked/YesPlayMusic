@@ -54,7 +54,7 @@
     "lodash": "^4.17.20",
     "md5": "^2.3.0",
     "mpris-service": "^2.1.2",
-    "music-metadata": "^7.12.5",
+    "music-metadata": "^7.12.6",
     "node-vibrant": "^3.2.1-alpha.1",
     "nprogress": "^0.2.0",
     "pac-proxy-agent": "^5.0.0",
