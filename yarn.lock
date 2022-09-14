@@ -5375,10 +5375,10 @@ electron-updater@^5.0.6:
     semver "^7.3.5"
     typed-emitter "^2.1.0"
 
-electron@^18.3.9:
-  version "18.3.9"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-18.3.9.tgz#a2e8301f0bdf5a7a867793bd64441ae49f42499e"
-  integrity sha512-59m2yyHNeFxMjbMyYoRxyNWhdEwK0UOzbhGXGbAoYx/f95cVd9AduWL1G2TSUNgpwugm5Ia7hRs6GlZSPbbJtQ==
+electron@^18.3.11:
+  version "18.3.13"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-18.3.13.tgz#b78e7a879cce07dbaa8725c30df78d389f645d97"
+  integrity sha512-/VodC4W9O4xdv2Xlj1eXbeqaBuIs0rkD2jeNPB/C0g2sqwGNfa/OHmD0XZDo7E8tgyiAcc9AR7H4Gsh8T4otrQ==
   dependencies:
     "@electron/get" "^1.13.0"
     "@types/node" "^16.11.26"
